@@ -27,7 +27,7 @@
                 <param name="onload" value="true" />
             </feature>
         </config-file> 
-		<header-file src="src/ios/HelloWorldPluginSwift-Bridging-Header.h" />
+		<header-file src="src/ios/bridging-header.h" />
 		<source-file src="src/ios/HelloWorldPluginSwift.swift" />       
     </platform>    
 
